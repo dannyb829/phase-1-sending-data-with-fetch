@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -8,9 +9,25 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
+    },
+    {
+      "dogName": "tito",
+      "dogBreed": "yorkie poodle",
+      "id": 3
+    },
+    {
+      "dogName": "tito",
+      "dogBreed": "yorkie poodle",
+      "id": 4
+    },
+    {
+      "dogName": "",
+      "dogBreed": "",
+      "id": 5
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +38,88 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "name": "dannyb829",
+      "email": "db@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "dannyb829",
+      "email": "db@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "dannyb829",
+      "email": "db@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "dannyb829",
+      "email": "db@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "dannyb829",
+      "email": "db@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "vyvelife",
+      "email": "felicola@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "vyvelife",
+      "email": "felicola@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "vyvelife",
+      "email": "felicola@gmail.com",
+      "id": 8
+    },
+    {
+      "name": "vyvelife",
+      "email": "felicola@gmail.com",
+      "id": 9
+    },
+    {
+      "name": "vyvelife",
+      "email": "felicola@gmail.com",
+      "id": 10
+    },
+    {
+      "name": "vyvelife",
+      "email": "felicola@gmail.com",
+      "id": 11
+    },
+    {
+      "name": "vyvelife",
+      "email": "felicola@gmail.com",
+      "id": 12
+    },
+    {
+      "name": "vyvelife",
+      "email": "felicola@gmail.com",
+      "id": 13
+    },
+    {
+      "name": "vyvelife",
+      "email": "felicola@gmail.com",
+      "id": 14
+    },
+    {
+      "name": "vyvelife",
+      "email": "felicola@gmail.com",
+      "id": 15
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
